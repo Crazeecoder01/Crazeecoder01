@@ -21,7 +21,7 @@
 - 🧠 Developed *Sukoon* — a mental health support platform  
 - 🚀 Active in *competitive programming* (Codeforces, LeetCode)  
 - 📈 Worked on *scalable systems* with optimization techniques  
-- 🎓 B.Tech CSE Student, passionate about research & hackathons  
+- 🎓 B.Tech EE Student, passionate about research & hackathons  
 
 ---
 
